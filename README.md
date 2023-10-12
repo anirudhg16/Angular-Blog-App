@@ -2,13 +2,15 @@
 
 Introducing "blogApp": Your Ultimate Reading Companion
 
+Check Out at : https://angular-blog-app-baa84.web.app/
+
 Overview:
 "blogApp" is a dynamic reading platform designed to elevate your reading experience. It leverages Angular for seamless navigation and Bootstrap for a captivating, responsive user interface. What makes "blogApp" extraordinary is its integration with Firebase, a robust content management system that ensures the content you love is at your fingertips.
 
 Key Features:
 
 1. Angular-Enhanced Navigation:
-"blogApp" harnesses Angular's navigation prowess to deliver a smooth and immersive reading journey. Easily explore an array of articles and stories with a few clicks.
+"blogApp" utilizes Angular's navigation prowess to offer a seamless and immersive reading experience. Easily explore diverse articles and stories with a single click. Our content tabs and cards are dynamically updated via the CMS for a concise, customizable experience.
 
 2. Elegant Bootstrap Design:
 "blogApp" presents content in an aesthetically pleasing layout thanks to Bootstrap. It's the perfect reading environment, adapting flawlessly to various devices.
