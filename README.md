@@ -19,7 +19,7 @@ Key Features:
 With Firebase, content management is a breeze. All articles are seamlessly delivered through this backend system, making your reading experience seamless and hassle-free.
 
 4. Streamlined Reading Experience:
-Dive into articles without distractions. "blogApp" offers an intuitive and focused reading environment for articles and stories.
+Dive into articles without distractions. "blogApp" offers an intuitive and focused reading environment for articles and stories.Also, each Article Card and the Article Post feautures it's own view-counter to count the number of times the article is viewed.
 
 5. Content Curation:
 Explore a rich selection of articles across a diverse range of topics. "blogApp" allows you to discover and delve into the subjects you're most passionate about.
