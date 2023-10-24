@@ -1,4 +1,4 @@
-# Angular-Blog-App
+![blogApp-logos](https://github.com/anirudhg16/Angular-Blog-App/assets/80595161/126bd893-5d57-486c-8712-a2a36280dfab)# Angular-Blog-App
 
 Introducing "blogApp": Your Ultimate Reading Companion
 
@@ -10,7 +10,7 @@ Overview:
 Key Features:
 
 1. Angular-Enhanced Navigation:
-"blogApp" utilizes Angular's navigation prowess to offer a seamless and immersive reading experience. Easily explore diverse articles and stories with a single click. Our content tabs and cards are dynamically updated via the CMS for a concise, customizable experience.
+"blogApp" harnesses the capabilities of Angular and TypeScript to provide a seamless and immersive reading experience. Users can effortlessly explore a wide array of articles and stories with a single click. The content tabs and cards, enhanced by TypeScript for strong typing and code integrity, are dynamically updated via the CMS for a concise and highly customizable reading experience.
 
 2. Elegant Bootstrap Design:
 "blogApp" presents content in an aesthetically pleasing layout thanks to Bootstrap. It's the perfect reading environment, adapting flawlessly to various devices.
